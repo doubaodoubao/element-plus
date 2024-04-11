@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 300px; max-width: 600px">
+  <div style="height: 200px; max-width: 600px">
     <el-steps direction="vertical" :active="1">
       <el-step title="Step 1" />
       <el-step title="Step 2" />
